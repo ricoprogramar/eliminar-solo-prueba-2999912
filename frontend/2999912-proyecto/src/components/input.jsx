@@ -1,0 +1,1 @@
+//este es el archivo para crear el componente input
