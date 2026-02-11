@@ -15,6 +15,10 @@
   filter: drop-shadow(0 0 2em #646cffaa);
   /* Hola Edwar acaba de realizar este cambio */
   filter: drop-shadow(0 0 2em #10c710aa);
+
+  /* Hola este cambio lo realizo camilo*/
+  filter: drop-shadow(0 0 2em #101fc7aa);
+
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
