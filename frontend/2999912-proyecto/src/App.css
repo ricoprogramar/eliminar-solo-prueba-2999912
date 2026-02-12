@@ -13,8 +13,8 @@
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
-  /* Hola Edwar acaba de realizar este cambio */
-  filter: drop-shadow(0 0 2em #10c710aa);
+  /* Hola Edwar modificar el color a fucsia*/
+  filter: drop-shadow(0 0 2em #b445efaa);
 
   /* Hola este cambio lo realizo camilo*/
   filter: drop-shadow(0 0 2em #101fc7aa);
